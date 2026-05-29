@@ -6,7 +6,7 @@ This repository contains the official results and demonstration for our paper on
 
 ## 🎥 Video Demonstrations
 
-We conduct qualitative comparisons of our method against Wav2Lip (MM’20), SadTalker (CVPR’23), RealPortrait (ICLR’24), and KDTalker (IJCV’26). In particular, KDTalker is diffusion-based method.
+We conduct qualitative comparisons of our method against Wav2Lip (MM’20), SadTalker (CVPR’23), RealPortrait (ICLR’24), and KDTalker (IJCV’25). In particular, KDTalker is diffusion-based method.
 
 ### Example 1 
 https://github.com/user-attachments/assets/61b54306-74c9-481c-8e05-9aa8e5f2df39
