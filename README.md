@@ -31,6 +31,7 @@ Our model excels at generalizing to data it has never seen before. To demonstrat
 |<img src="https://github.com/user-attachments/assets/a37fb198-350a-412c-bf9a-caba13f58b89" width="100%"></img> | <video controls loop src="https://github.com/user-attachments/assets/fdf5104f-80bf-46e1-ac5c-695a14e2d7e7" muted="false" width="100%"></video> |
 
 ### 3. Source Image from unseen (VFHQ) dataset + Audio form unseen (VFHQ) dataset
-| Source Img | RETA             | 
+| Source Img | Our Method              | 
 |------------|------------|
 |<img src="https://github.com/user-attachments/assets/e881348b-432e-4844-a3a6-7bd794aceb32" width="100%"></img> | <video controls loop src="https://github.com/user-attachments/assets/2adcdce6-7fe6-4228-9d8a-5db174d2cf9e" muted="false" width="100%"></video> |
+
