@@ -33,4 +33,4 @@ Our model excels at generalizing to data it has never seen before. To demonstrat
 ### 3. Source Image from unseen (VFHQ) dataset + Audio form unseen (VFHQ) dataset
 | Source Img | Our Method              | 
 |------------|------------|
-|<img src="https://github.com/user-attachments/assets/e881348b-432e-4844-a3a6-7bd794aceb32" width="100%"></img> | <video controls loop src="https://github.com/user-attachments/assets/2adcdce6-7fe6-4228-9d8a-5db174d2cf9e" muted="false" width="100%"></video> |
+|<img src="https://github.com/user-attachments/assets/4252be88-54e2-4f8e-a5c4-d326821644b2" width="100%"></img> | <video controls loop src="https://github.com/user-attachments/assets/55542fae-53ac-4ef0-8faf-911ba877ad37" muted="false" width="100%"></video> |
