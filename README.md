@@ -9,13 +9,13 @@ This repository contains the official results and demonstration for our paper on
 We conduct qualitative comparisons of our method against Wav2Lip (MM’20), SadTalker (CVPR’23), RealPortrait (ICLR’24), and KDTalker (IJCV’25). In particular, KDTalker is diffusion-based method.
 
 ### Example 1 
-https://github.com/user-attachments/assets/61b54306-74c9-481c-8e05-9aa8e5f2df39
+https://github.com/user-attachments/assets/6f9e1963-6edf-404c-9c11-8df18932dc85
 
 ### Example 2
-https://github.com/user-attachments/assets/d6148a84-5334-4dec-98f8-7cd6be2ad92c
+https://github.com/user-attachments/assets/efc54d7a-4c5a-49c3-8c8c-acda4e78dd5f
 
 ### Example 3
-https://github.com/user-attachments/assets/922749c9-17ba-4384-bb16-e4d505dd7bba
+https://github.com/user-attachments/assets/f96f9879-da73-4330-b5bd-f661b1946413
 
 ## 🎥 Robust Generalization in the Wild
 Our model excels at generalizing to data it has never seen before. To demonstrate this, we showcase its performance on challenging "in-the-wild" scenarios. 
